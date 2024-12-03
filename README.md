@@ -26,23 +26,26 @@ A simple Laravel application with the following features:
 ## Screenshots
 
 ### 1. Homepage
-![Homepage Screenshot](screenshots/homepage.png)
+![homepage](https://github.com/user-attachments/assets/339a16c4-0e13-4d64-a591-da6565c68ac8)
 
 ### 2. Contact Page
-![Contact Page Screenshot](screenshots/contact.png)
+![contact](https://github.com/user-attachments/assets/5430d1f8-6bae-4d68-b688-8f128420cf41)
+![contact-validation](https://github.com/user-attachments/assets/e5031510-96bb-4370-ac15-085e43be0d90)
+![contact-empty-validation](https://github.com/user-attachments/assets/67ea8481-1c6b-4e4d-8f94-6c5bcf322327)
 
 ### 3. Email Notification (Mailtrap)
-![Mailtrap Screenshot](screenshots/mailtrap.png)
+![email](https://github.com/user-attachments/assets/ea8b1f02-eb67-40a4-9d1b-e880ed851965)
+
 
 ### 4. Database Entries
-![Database Screenshot](screenshots/database.png)
+![db](https://github.com/user-attachments/assets/fcd2d1a9-c37e-4e9a-93a5-292807405160)
 
 ---
 
 ## Tech Stack
 
-### Laravel: Backend framework.
-### Vue.js: Frontend framework.
-### Tailwind CSS: Styling.
-### Mailtrap: Email testing tool.
+#### Laravel: Backend framework.
+#### Vue.js: Frontend framework.
+#### Tailwind CSS: Styling.
+#### Mailtrap: Email testing tool.
 ### MySQL: Database.
