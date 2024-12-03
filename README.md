@@ -38,7 +38,8 @@ A simple Laravel application with the following features:
 
 
 ### 4. Database Entries
-![db](https://github.com/user-attachments/assets/fcd2d1a9-c37e-4e9a-93a5-292807405160)
+![db1](https://github.com/user-attachments/assets/a4cf825f-7d57-4cb9-9c2e-75840018dd0e)
+
 
 ---
 
@@ -48,4 +49,5 @@ A simple Laravel application with the following features:
 #### Vue.js: Frontend framework.
 #### Tailwind CSS: Styling.
 #### Mailtrap: Email testing tool.
-### MySQL: Database.
+#### MySQL: Database.
+#### Factory & Seeder are used for populating DB fields
