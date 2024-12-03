@@ -22,6 +22,17 @@ A simple Laravel application with the following features:
    - Sends a notification email with the inquiry details using Mailtrap.
 
 ---
+## Tech Stack
+
+#### Laravel: Backend framework.
+#### Vue.js: Frontend framework.
+#### Tailwind CSS: Styling.
+#### Mailtrap: Email testing tool.
+#### MySQL: Database.
+#### Factory & Seeder are used for populating DB fields
+
+---
+
 
 ## Screenshots
 
@@ -30,7 +41,9 @@ A simple Laravel application with the following features:
 
 ### 2. Contact Page
 ![contact](https://github.com/user-attachments/assets/5430d1f8-6bae-4d68-b688-8f128420cf41)
+#### 2.1 Contact Page Validation Email
 ![contact-validation](https://github.com/user-attachments/assets/e5031510-96bb-4370-ac15-085e43be0d90)
+#### 2.1 Contact Page Empty Input
 ![contact-empty-validation](https://github.com/user-attachments/assets/67ea8481-1c6b-4e4d-8f94-6c5bcf322327)
 
 ### 3. Email Notification (Mailtrap)
@@ -43,11 +56,4 @@ A simple Laravel application with the following features:
 
 ---
 
-## Tech Stack
 
-#### Laravel: Backend framework.
-#### Vue.js: Frontend framework.
-#### Tailwind CSS: Styling.
-#### Mailtrap: Email testing tool.
-#### MySQL: Database.
-#### Factory & Seeder are used for populating DB fields
